@@ -7,9 +7,6 @@
   "scripts": {
     "test": ""
   },
-  "bin": {
-  "gendiff": "bin/gendiff.js"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
